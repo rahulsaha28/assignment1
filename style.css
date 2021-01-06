@@ -1,0 +1,296 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    
+    font-family: 'Roboto', sans-serif;
+}
+
+#nav-bar-section{
+    width:100%;
+    height:70px;
+    
+}
+
+.nav-container{
+    
+    width:40%;
+    float:right;
+    height:90%;
+}
+
+.nav-container a{
+    display:inline-block;
+    padding:20px 30px;
+    text-decoration:none;
+    color:#3C3C3C;
+}
+
+#about-section{
+    width:100%;
+    height:900px;
+    
+}
+
+.about-wrapper{
+    width:47%;
+    height:800px;
+    float:left;
+    padding-top:20px;
+    
+}
+
+.div-center-1{
+    
+    padding:80px 70px;
+}
+
+.my-name{
+
+    font-family: 'Bebas Neue', cursive;
+    font-size:40px;
+    font-weight:400;
+    color:#363958;
+}
+
+.light-red{
+    color:#FF8367;
+}
+
+.b-2{
+    margin-bottom:28px;
+}
+
+.b-3{
+    margin-bottom:15px;
+}
+
+.btn-1{
+    text-decoration:none;
+    padding:10px 15px;
+    border-radius:4px;
+    font-size:14px;
+}
+
+.orange-color{
+    color:white;
+    background-image:linear-gradient(180deg, #FF8063, #F46060);
+}
+
+.img70x80{
+    width:70%;
+    height:80%;
+}
+
+.div-center-2{
+    padding:10px 25px;
+}
+
+.ml-2{
+    margin-left:90px;
+}
+
+#work-section{
+    width:100%;
+    height:600px;
+    background-color:#F8F9FC;
+}
+
+.work-wrapper-1{
+    height:200px;
+    width:100%;
+    text-align:center;
+    border:1px solid #F8F9FC;
+}
+
+.mt-1{
+    margin-top:100px;
+}
+
+.cart-wrapper{
+
+    height:300px;
+    margin-left:100px;
+    
+}
+
+.cart{
+    float:left;
+    width:25%;
+    height:300px;
+    padding:2px 2px;
+    margin:0px 35px;
+    box-shadow:2px 2px 5px gray;
+    border-radius:6px;
+    background-color:#FFFFFF;
+}
+
+.logo-wrapper{
+    padding:5px 5px;
+}
+
+.logo{
+    height:50%;
+    width:99%;
+    border-radius:5px;
+}
+
+.cart-detail{
+    padding:5px 4px;
+    color:#6C6C6C;
+}
+
+.cart-detail h3{
+    margin-left:10px;
+    color:#363958;
+    margin-bottom:8px;
+}
+
+.cart-detail p {
+    font-size:14px;
+    margin:0px 4px;
+}
+
+#skill-section{
+    width:100%;
+    height:500px;
+    background-color:#eef1f1;
+}
+
+.skill-title{
+    height:20%;
+    text-align:center;
+}
+
+.skill-wrapper{
+    margin-right:100px;
+}
+
+.each-skill{
+    float:left;
+    width:45%;
+    
+    margin-right:25px;
+    margin-bottom:25px;
+}
+
+.skill-detail h3{
+    float:left;
+    width:60%;
+    
+}
+
+.skill-font{
+    font-size:20px;
+    font-weight:400;
+    color:#6C6C6C;
+}
+
+.progress{
+    
+    height:10px;
+    border-radius:7px;
+    background-color:rgb(78, 77, 77);
+    border-radius:5px;
+}
+.un-progress{
+    margin:10px 0px;
+    width:95%;
+    height:10px;
+    background-color:rgb(197, 197, 197);
+    border:5px solid rgb(197, 197, 197);
+    border-radius:10px;
+}
+
+/* this is the progress bar */
+.sk-60{
+    width:60%;
+}
+.sk-30{
+    width:60%; 
+}
+.sk-20{
+    width:20%;
+}
+.sk-0{
+    width:0%;
+}
+.sk-90{
+    width:90%;
+}
+
+.sk-50{
+    width:50%;
+}
+
+/* ---------------------------- */
+#footer-section
+{
+    width:100%;
+    height:500px;
+    
+}
+
+.footer-wrapper{
+    width:80%;
+    margin-left:90px;
+}
+
+.footer-upper{
+    background-image:url('./images/back.png');
+    background-position: center;
+    background-size:cover;
+    width:100%;
+    height:200px;
+    border-radius:20px;
+    margin:100px 40px;
+}
+
+.footer-lower{
+    width:100%;
+    height:200px;
+    margin:0px 40px;
+    text-align:center;
+}
+
+.footer-upper h1{
+    float:left;
+    margin:70px 50px;
+    color:white;
+}
+
+.btn-2{
+    width:140px;
+    height:50px;
+    float:right;
+    margin:70px 80px 0px 0px;
+    text-align:center;
+    background-image:linear-gradient(180deg, #FF8063, #F46060);
+    border-radius:5px;
+}
+
+.btn-2 h4{
+    margin:14px 15px;
+    color:white;
+    font-weight:400;
+}
+
+.footer-lower h2{
+    color:#363958;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+.footer-icon{
+    width:30%;
+    margin-left:380px;
+}
+
+.img25x25{
+    width:25px;
+    height:25px;
+    margin-right:20px;
+}
